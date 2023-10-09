@@ -15,7 +15,7 @@ After that first attempt, I remembered from a previous CTF that you could make a
 
 After thinking about how to move forward, I decided to turn to another walkthrough to figure out was wrong about my approach. From there I learned that you must do `./fang-of-haynekhtnamet` to open the file. 
 
-After doing that, the file was successfully opened, and the CTF flag was provided: picoCTF{l3v3lu_up!_t4k3_4_r35t!_76266e38}
+After doing that, the file was successfully opened, and the CTF flag was provided.
 
 # What I Learned
 I learned that a file can be opened by doing `./` which I did not know before as I am very new to this whole process.
